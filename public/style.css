@@ -1,8 +1,8 @@
 body{
-    font-family: ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#into-screen{
+#intro-screen{
     background-image: url('images/tausta.png');
 }
 
